@@ -1,4 +1,4 @@
-module github.com/go-oauth2/redis/v4
+module github.com/hkensame/redis
 
 go 1.13
 
